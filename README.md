@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me +256709597995
+- 📫 How to reach me +256746716477
 
 <!---
 MuksGeneration/MuksGeneration is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
